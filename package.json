@@ -9,5 +9,6 @@
 		"minimist": "^1.2.0"
 	},
 	"devDependencies": {
-	}
+	},
+	"bin": "./bin/bs-extended"
 }

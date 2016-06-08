@@ -11,8 +11,7 @@
 	"devDependencies": {
 	},
 	"bin": "./bin/bs-extended",
-	"repository" :
-	{
+	"repository" : {
 		"type" : "git",
 		"url" : "https://github.com/mharrington622/bs-extended.git"
 	}
